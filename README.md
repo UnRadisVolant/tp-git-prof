@@ -2,6 +2,16 @@
 # Mon site pour mon portfolio
 
 
+## CHANGELOG
+
+### version 3 : Modification du titre
+
+### version 2 : Ajout d'images
+
+### version 1 : First commit
+
+
+
 ## Pour le cloner 
 
 ```sh
