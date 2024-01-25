@@ -4,6 +4,8 @@
 
 ## CHANGELOG
 
+### version 4 : Ajout d'une nouvelle page
+
 ### version 3 : Modification du titre
 
 ### version 2 : Ajout d'images
