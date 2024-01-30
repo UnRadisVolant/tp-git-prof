@@ -4,6 +4,8 @@
 
 ## CHANGELOG
 
+### version 5 : Ajout d'un page avec la commande sudo
+
 ### version 4 : Ajout d'une nouvelle page
 
 ### version 3 : Modification du titre
